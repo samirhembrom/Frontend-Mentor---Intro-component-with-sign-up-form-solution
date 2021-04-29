@@ -26,8 +26,8 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/samirhembrom/Frontend-Mentor---Intro-component-with-sign-up-form-solution)
+- [Live Site URL](https://frontend-mentor-intro-component-with-sign-up-form-solution.vercel.app/)
 
 ## My process
 
